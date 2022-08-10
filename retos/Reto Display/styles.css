@@ -1,0 +1,106 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.menu-nav{
+    height: 50px;
+    width: 100vw;
+    background-color: #f28bb2;
+    background-image: linear-gradient(140deg,#f28bb2,rgb(241, 15, 241))
+}
+
+.card-box{
+    display: inline-block;
+    height: auto;
+    padding: 10px 40px;
+    background-color: #0ae7ff;
+}
+
+.card{
+    display: block;
+    width: 120px;
+    height: 75px;
+    margin: 15px;
+    margin-top: 30px;
+    padding: 20px 40px;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+
+.logo{
+    width: 85px;
+}
+
+.good-day{
+    position: relative;
+    top: -20px;
+    left: -40px;
+    width: 135px;
+    height: auto;
+    vertical-align: middle;
+    border-radius: 5px;
+}
+.nav-list{
+    position: absolute;
+    right:-10px;
+    display: inline-block;
+    list-style: none;
+    margin: 20px 50px;
+}
+
+.nav-list li{
+    display: inline-block;
+    font-weight: 500;
+    font-size: 15px;
+    margin-right: 20px;
+    color: #ffffff;
+}
+
+p{
+    position: absolute;
+    top: 10px;
+    left: 350px;
+    font-weight: 500;
+    color: white;
+    font-size: larger;
+}
+
+.card-text{
+    position: absolute;
+    font-size: 15px;
+    top: 70px;
+    left: 10px;
+    color: white;
+}
+
+.card-text_bounceMan{
+    position: absolute;
+    font-size: 15px;
+    top: 180px;
+    left: 10px;
+    color: white;  
+}
+
+.card-text_chances{
+    position: absolute;
+    font-size: 15px;
+    top: 280px;
+    left: 10px;
+    color: white;  
+}
+
+.card-text_formidable{
+    position: absolute;
+    font-size: 15px;
+    top: 390px;
+    left: 10px;
+    color: white;  
+}
+
+.main-image{
+    position: absolute;
+    top: 50px;
+    left: 230px;
+    width: 800px;
+}

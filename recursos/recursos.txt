@@ -1,0 +1,52 @@
+elemtos de html 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
+paginas para bajarle el peso a las imagenes 
+https://tinypng.com
+https://www.verexif.com
+
+
+para crear la watructura basicas del index escribimos "!" y damos tabulador
+
+
+input types
+https://www.w3schools.com/html/html_form_input_types.asp
+
+
+autocomplete 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete
+
+
+syntaxis de css 
+https://i.emezeta.com/weblog/css3-cheatsheet/css3-cheatsheet-2017-emezeta.pdf
+
+
+BEM para CSS
+
+https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-classes
+
+https://developer.mozilla.org/es/docs/Web/CSS/Pseudo-elements
+
+https://en.bem.info/methodology/faq/#why-bem
+
+modelo de caja
+https://developer.mozilla.org/es/docs/Web/CSS/box-sizing
+
+selectores css
+https://flukeout.github.io
+
+cusrtom properties
+https://developer.mozilla.org/en-US/docs/Web/CSS/--*
+
+screen metrics responsive
+https://www.mydevice.io
+
+
+
+
+
+
+
+
+resumen del curso
+https://www.notion.so/Curso-definitivo-de-HTML-y-CSS-7196d473c6b046d2b8de4a0edaa82dc6
