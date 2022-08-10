@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+}
+
+.container{
+    border: .3rem solid black;
+    display: flex;
+    flex-wrap: wrap;
+    /*align-items: center; funciona para alinear los elementos dentro del contenedor*/
+    /* stretch: el tema;o de los elemntos se acomda dependiendo el tamano del contenedor padre
+    baseline: aqui se acomoda dependiendo el contenido */
+    /*flex-direction: row; aqui es para acomodar como se acomodan
+    justify-content: space-between; este acomoda espacio entre los elementos*/
+
+}
+
+.box{
+    height: 10rem;
+    flex-basis: 10rem;
+    flex-grow: 1;
+}
+
+.box1{
+    background-color: rgb(0, 255, 0);
+    /*order: 2;funciona para ordenar los elementos*/
+    /* flex-grow: 1; aqui se ajusta el tamano sobrante */
+}
+
+.box2{
+    background-color: aqua;
+
+}
+
+.box3{
+    background-color: rgb(247, 65, 192);
+}
+
+.box4{
+    background-color: rgb(192, 0, 240);
+}
+
+.box5{
+    background-color: rgb(179, 255, 0);
+}
+
+.box6{
+    background-color: rgb(255, 0, 0);
+}
+

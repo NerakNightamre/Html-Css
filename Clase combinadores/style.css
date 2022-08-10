@@ -1,0 +1,13 @@
+/*quiero que me colorees todas las etiquetas P que esten cerca de un h2*/
+h2 + p{
+    color: red;
+}
+
+/*todos los hermanos generales p de h2
+h2 ~ p{
+    color: blue;
+}*/
+
+div p{
+    color: red;
+}
